@@ -6,20 +6,20 @@ This repository provides the implementation of multiple algorithms for finding t
 TopRInfluentialCommunity/
 │
 ├── all_mains/
-│   ├── main.cpp
-│   ├── main_bound.cpp
-│   ├── main_fit.cpp
-│   └── main_fit_bound.cpp
+│   ├── main.cpp                # Naive solution
+│   ├── main_bound.cpp          # Naive solution + Upper Bound
+│   ├── main_fit.cpp            # Naive solution + SlimTree
+│   └── main_fit_bound.cpp      # Combination of all advanced methods
 │
-├── include/             # Header files for data structures used in bipartite graph implementation
-│   └── ...
+├── include/                    # Header files for data structures used in bipartite graph implementation
+│   └── …
 │
-├── src/                 # Source files for core graph functionality
-│   └── ...
+├── src/                        # Source files for core graph functionality
+│   └── …
 │
-├── New_framework_beta.cpp   # Approximate solution with optimizations
-├── newframeworks.cpp        # Approximate solution using naive method
-└── README.md                # Project documentation (you're reading this!)
+├── New_framework_beta.cpp      # Approximate solution with optimizations
+├── newframeworks.cpp           # Approximate solution using naive method
+└── README.md                   # Project documentation (you’re reading this!)
 ### Overview Diagram
 
 Below is a visual representation of the structure and relationships of the project components:
