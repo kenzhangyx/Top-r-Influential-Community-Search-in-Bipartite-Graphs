@@ -56,6 +56,7 @@ These files provide **approximate solutions** for faster but less precise result
 2. **Approximate Search**:
    - For faster, approximate results, you can use either `newframeworks.cpp` (naive approach) or `New_framework_beta.cpp` (optimized approach).
 
+In our experiments, we use 10 real-world datasets, which can be found in KONECT (http://konect.cc/).
 
 ### Contact Information
 
