@@ -22,28 +22,6 @@ TopRInfluentialCommunity/
 └── README.md                   # Project documentation (you’re reading this!)  
 ### Overview Diagram
 
-Below is a visual representation of the structure and relationships of the project components:  
-                       +----------------------+  
-                       |  TopRInfluentialCommunity  |  
-                       +-----------+--------------+  
-                                   |  
-            +----------------------+----------------------+  
-            |                                               |  
-   +--------+--------+                          +-----------+-----------+  
-   |  Accurate Methods  |                          | Approximate Methods   |  
-   +---------------------+                          +-----------------------+  
-            |                                                |  
- +----------+-----------+                       +------------+------------+  
- | all_mains Folder      |                       |  New_framework_beta.cpp |  
- |                      |                       |  newframeworks.cpp       |  
- +----------+-----------+                       +--------------------------+  
-            |  
-+———––+–––––––------+  
-| main.cpp          | -> Naive Solution  
-| main_bound.cpp    | -> Naive + Upper Bound  
-| main_fit.cpp      | -> Naive + SlimTree  
-| main_fit_bound.cpp| -> Combination of All  
-+—————————–+  
 ![QQ_1728232914648](https://github.com/user-attachments/assets/de00018b-0d74-4369-88a8-277d7da94409)
 
 ### Contents
