@@ -38,11 +38,11 @@ Below is a visual representation of the structure and relationships of the proje
  |                      |                       |  newframeworks.cpp       |  
  +----------+-----------+                       +--------------------------+  
             |  
-+———––+–––––––+  
-| main.cpp                    | -> Naive Solution  
-| main_bound.cpp              | -> Naive + Upper Bound  
-| main_fit.cpp                | -> Naive + SlimTree  
-| main_fit_bound.cpp          | -> Combination of All  
++———––+–––––––------+  
+| main.cpp          | -> Naive Solution  
+| main_bound.cpp    | -> Naive + Upper Bound  
+| main_fit.cpp      | -> Naive + SlimTree  
+| main_fit_bound.cpp| -> Combination of All  
 +—————————–+  
 ### Contents
 
