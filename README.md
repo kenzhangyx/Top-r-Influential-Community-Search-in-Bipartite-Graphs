@@ -44,6 +44,8 @@ Below is a visual representation of the structure and relationships of the proje
 | main_fit.cpp      | -> Naive + SlimTree  
 | main_fit_bound.cpp| -> Combination of All  
 +—————————–+  
+![QQ_1728232914648](https://github.com/user-attachments/assets/de00018b-0d74-4369-88a8-277d7da94409)
+
 ### Contents
 
 #### 1. **Accurate Methods** (`all_mains/`)
