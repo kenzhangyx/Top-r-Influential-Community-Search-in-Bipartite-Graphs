@@ -12,14 +12,14 @@ TopRInfluentialCommunity/
 │   └── main_fit_bound.cpp
 │
 ├── include/             # Header files for data structures used in bipartite graph implementation
-│   └── …
+│   └── ...
 │
 ├── src/                 # Source files for core graph functionality
-│   └── …
+│   └── ...
 │
 ├── New_framework_beta.cpp   # Approximate solution with optimizations
 ├── newframeworks.cpp        # Approximate solution using naive method
-└── README.md                # Project documentation (you’re reading this!)
+└── README.md                # Project documentation (you're reading this!)
 ### Overview Diagram
 
 Below is a visual representation of the structure and relationships of the project components:
