@@ -56,11 +56,7 @@ These files provide **approximate solutions** for faster but less precise result
 2. **Approximate Search**:
    - For faster, approximate results, you can use either `newframeworks.cpp` (naive approach) or `New_framework_beta.cpp` (optimized approach).
 
-### Future Work
-
-- Expand the approximate methods with other heuristic techniques for better precision.
-- Explore parallelism and GPU acceleration for optimizing large graph searches.
 
 ### Contact Information
 
-For any questions or contributions, feel free to create an issue or submit a pull request.
+yzhang2879@wisc.edu
